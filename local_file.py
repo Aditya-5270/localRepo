@@ -1,6 +1,6 @@
-print("hello world")
+print("#########")
 
-print("harahara mahadev")
+print("bappa")
 
-print("generator")
+print("appa")
 
