@@ -1,6 +1,2 @@
-print("#########")
-
-print("bappa")
-
-print("appa")
+print("one")
 
