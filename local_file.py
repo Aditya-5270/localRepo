@@ -1,6 +1,6 @@
-print("hello world")
+print("one")
 
-print("harahara mahadev")
+print("two")
 
-print("generator")
+print("three")
 
